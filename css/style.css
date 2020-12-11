@@ -79,7 +79,7 @@ li {
 }
 
 li a {
-  display: block;
+  display: flex;
   color: #010101;
   text-align: center;
   padding: 20px 20px;
